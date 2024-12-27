@@ -1,5 +1,5 @@
 **NAME:** R.VISHNUPRASATH                                                                                                                            
-**COMPANY:**CODTECH IT SOLUTIONS
+**COMPANY:** CODTECH IT SOLUTIONS
 **ID:** CT08FAZ                                                                                                                                      
 **DOMAIN:** FIGMA APP DEVELOPMENT
 **DURATION:** 20th DECEMBER 2024 TO 20th JANUARY 2025
